@@ -1,5 +1,6 @@
 # Burgler-Indicator-Assembly-Language
-Burglar indicator using PIR sensor in Assembly Language 
+Burglar indicator using PIR sensor in Assembly Language.
+
 Components required:
 1.	PIC18F452
 2.	12MHz Quartz crystal
